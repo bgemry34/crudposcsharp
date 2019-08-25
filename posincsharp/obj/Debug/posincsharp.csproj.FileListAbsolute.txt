@@ -1,0 +1,17 @@
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\bin\Debug\posincsharp.exe.config
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\bin\Debug\posincsharp.exe
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\bin\Debug\posincsharp.pdb
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\bin\Debug\MySql.Data.dll
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\bin\Debug\Google.Protobuf.dll
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\bin\Debug\MySql.Data.xml
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\obj\Debug\posincsharp.csprojAssemblyReference.cache
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\obj\Debug\posincsharp.Properties.Resources.resources
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\obj\Debug\posincsharp.csproj.GenerateResource.cache
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\obj\Debug\posincsharp.csproj.CoreCompileInputs.cache
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\obj\Debug\posincsharp.csproj.CopyComplete
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\obj\Debug\posincsharp.exe
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\obj\Debug\posincsharp.pdb
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\obj\Debug\posincsharp.posmain.resources
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\obj\Debug\posincsharp.productForm.resources
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\obj\Debug\posincsharp.receiptForm.resources
+C:\Users\UserCloud\Desktop\posincsharp\posincsharp\obj\Debug\posincsharp.salesForm.resources
